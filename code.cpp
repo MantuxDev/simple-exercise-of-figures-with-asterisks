@@ -1,5 +1,3 @@
-//es 1 pagina 220
-
 #include<iostream>
 
 using namespace std;
